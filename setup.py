@@ -8,6 +8,6 @@ setup(name='Omega500AnalysisTools',
       author='Camille, Huanqing',
       author_email='hqchen@oddjob.uchicago.edu',
       url='https://github.com/cavestruz/Omega500AnalysisTools/tree/master/omega500analysistools',
-      packages=['omega500analysistools'],
+      packages=['omega500analysistools','omega500analysistools.IO'],
      )
 
