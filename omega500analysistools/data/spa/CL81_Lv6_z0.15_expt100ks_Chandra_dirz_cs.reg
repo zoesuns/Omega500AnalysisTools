@@ -1,0 +1,9 @@
+# Region file format: DS9 version 4.1
+# Filename: fictitious
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+# vector(122,147,12.0284,-85.8556) vector=1
+# vector(122.869,135.003,5.66402,138.874) vector=1
+# vector(118.603,138.728,3.03366,67.5395) vector=1
+# vector(119.762,141.532,2.27392,33.8775) vector=1
+# vector(121.65,142.799,2.03156,50.8588) vector=1

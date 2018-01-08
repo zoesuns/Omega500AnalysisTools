@@ -1,0 +1,9 @@
+# Region file format: DS9 version 4.1
+# Filename: fictitious
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+ellipse(130.597,140.597,138.893,135.245,20.0325)
+ellipse(130.939,138.691,117.351,107.962,11.2393)
+ellipse(132.677,133.056,96.1335,82.6439,29.2924)
+ellipse(136.605,129.464,77.2963,64.9652,38.0046)
+ellipse(137.498,128.523,56.2631,49.816,44.639)
