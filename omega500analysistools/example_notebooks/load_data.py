@@ -78,6 +78,9 @@ Mgas500c=df['halos']['M_gas_500c'][df['halos']['aexp']>1].as_matrix()
 ######################################
 #### load observable file ############
 obsfile= '/Users/hqchen/filacf/Omega500/databases/NR_mass_observables_a1.0005.txt'
+obsfile_90= '/Users/hqchen/filacf/Omega500/databases/NR_mass_observables_a1.0005_2.txt'
 ids,r500c,M500c,Lx,Tx,Mgas,Yx=np.loadtxt(obsfile,unpack=True)
 
+ids_90, r500c_90, M500c_90, Mhse500c_90, Mgas500c_90, Tx500cEz_tot_90, Tx500cEz_tot_nocore_90, Tx500cEz_bulk_90, Tx500cEz_bulk_nocore_90, Lx500cEz_tot_90,  Lx500cEz_tot_nocore_90,  Lx500cEz_bulk_90,  Lx500cEz_bulk_nocore_90, fnt_90 = np.loadtxt(obsfile_90,unpack=True)
 
+    
